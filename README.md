@@ -10,3 +10,4 @@ Reasons for learning UI/Figma
 - [x] translating simple Figma design
 - [x] Simple card
 - [x] food gallery
+- [x] avatar challenge
