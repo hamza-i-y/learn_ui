@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #fce7ff;
+  font-family: "Poppins";
+  margin: 6.9em 6.2em;
+}
+
+h1 {
+  font-size: 2.6rem;
+  font-weight: bold;
+  line-height: 120%;
+  margin-bottom: 1.46em;
+}
+
+a {
+  font-size: 1.6rem;
+  color: #ffffff;
+  padding: 1em 1.25em;
+  background-color: #933a9f;
+  border-radius: 0.6rem;
+  text-decoration: none;
+  display: inline-block;
+}
