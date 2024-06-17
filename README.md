@@ -8,3 +8,5 @@ Reasons for learning UI/Figma
 ### Projects / Challenges
 
 - [x] translating simple Figma design
+- [x] Simple card
+- [x] food gallery

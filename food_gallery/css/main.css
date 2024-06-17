@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: "Playfair Display", serif;
+  margin: 12rem;
+}
+
+h1 {
+  font-size: 3.2em;
+  font-weight: normal;
+  margin-bottom: 6.8rem;
+}
+
+h1 span {
+  color: #07801e;
+}
+
+.food-container {
+  display: flex;
+  flex-wrap: wrap; /* Collapse when there is no more row space for item/img */
+  gap: 2rem;
+  width: 100%;
+  height: 400px;
+}
+
+.food {
+  width: 285px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
+.move-pos {
+  order: -1; /*This will place the last food image at the front*/
+}
