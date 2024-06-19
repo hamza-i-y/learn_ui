@@ -12,3 +12,4 @@ Reasons for learning UI/Figma
 - [x] food gallery
 - [x] avatar challenge
 - [x] desktop navigation
+- [x] news article list
