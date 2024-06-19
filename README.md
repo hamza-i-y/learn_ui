@@ -11,3 +11,4 @@ Reasons for learning UI/Figma
 - [x] Simple card
 - [x] food gallery
 - [x] avatar challenge
+- [x] desktop navigation
