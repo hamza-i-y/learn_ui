@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #d7ded3;
+  font-family: "Playfair Display", serif;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #fff;
+  padding: 7rem;
+  display: flex;
+  margin: 19rem;
+  column-gap: 13.6rem;
+}
+
+.header {
+  font-size: 4rem;
+  line-height: 113.8%;
+  font-weight: normal;
+}
+
+.header-text {
+  font-size: 2rem;
+  font-family: "Poppins", serif;
+  font-weight: lighter;
+}
+
+.cta {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  column-gap: 1.3rem;
+  margin-top: auto;
+}
+
+.cta p {
+  font-size: 2rem;
+  color: #406a29;
+  font-weight: bold;
+}
+
+.left-col {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2.6rem;
+  flex: 0.6;
+}
+
+.right-col {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.6rem;
+  flex: 1;
+}
+
+.right-col div {
+  width: 175px;
+  aspect-ratio: 1/1;
+  background-color: #fff;
+  border-radius: 0.6rem;
+  background-size: cover;
+}
+
+.right-col div:nth-child(1) {
+  background-image: url("../assets/drum1.jpg");
+}
+.right-col div:nth-child(6) {
+  background-image: url("../assets/drum2.jpg");
+}
+.right-col div:nth-child(2) {
+  background-image: url("../assets/drum3.jpg");
+}
+.right-col div:nth-child(3) {
+  background-color: #d0e1bb;
+}
+.right-col div:nth-child(5) {
+  background-color: #bbc8e1;
+}
