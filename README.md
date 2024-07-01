@@ -13,3 +13,6 @@ Reasons for learning UI/Figma
 - [x] avatar challenge
 - [x] desktop navigation
 - [x] news article list
+- [x] drum module
+- [x] timeline
+- [x] chat message
