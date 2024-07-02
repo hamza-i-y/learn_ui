@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Playfair Display", serif;
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  row-gap: 7rem;
+  height: 100vh;
+}
+
+.left-col {
+  width: 380px;
+}
+
+.right-col {
+  width: 361px;
+}
+
+section {
+  display: flex;
+  align-items: flex-end;
+  height: 160px;
+  width: 87.7rem;
+  column-gap: 8rem;
+  margin-left: 22.9rem;
+}
+
+section h1 {
+  font-size: 6rem;
+  width: 380px;
+  font-weight: normal;
+  line-height: 115.3%;
+}
+
+section p {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+  width: 361px;
+  line-height: 144.3%;
+}
+
+.cta {
+  display: flex;
+  align-items: center;
+  column-gap: 1.5rem;
+  margin-left: 22.9rem;
+  text-decoration: none;
+  color: #000000;
+}
+
+.cta p {
+  font-size: 3.2rem;
+  line-height: 115.3%;
+  font-weight: normal;
+}
+
+.hr-circles {
+  display: flex;
+  margin: 0 auto;
+  gap: 1.9rem;
+}
+
+.hr-circles div {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background-color: #e7e7e7;
+}
+
+.hr-circles div.black {
+  background-color: #000000;
+}

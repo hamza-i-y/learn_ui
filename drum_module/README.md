@@ -1,3 +1,3 @@
 # Design based on
 
-![Figma design for - simple card](./assets/design-figma.png)
+![Figma design for - drum module](./assets/design-figma.png)

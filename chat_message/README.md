@@ -1,3 +1,3 @@
 # Design based on
 
-![Figma design for - simple card](./assets/design-figma.png)
+![Figma design for - chat message](./assets/design-figma.png)
